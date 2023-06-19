@@ -1,5 +1,5 @@
-# multiplayer-git
-Companion repo to https://github.com/eficode-academy/git-katas
+# multiplayer git
+Companion repo to [git-katas](ttps://github.com/eficode-academy/git-katas)
 
 # Setup
 * Break out into groups of 3-4
