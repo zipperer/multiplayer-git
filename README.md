@@ -7,8 +7,22 @@ Companion repo to https://github.com/eficode-academy/git-katas
 * Choose a team name
 
 Leader:
-* Uses this GitHub repository as the template
+* Use this GitHub repository as the template
+
+![alt](img/use-template.png)
+
+* Name the repository `<team-name>-multiplayer-git`
+
+![alt](img/create-repo.png)
+
 * Invite team as collaborators to the newly created repo.
+* Go to Settings -> Collaborators
+![alt](img/settings.png)
+
+* Add your team members as collaborators
+
+![alt](img/collaborators.png)
+
 
 # Exercise one
 
