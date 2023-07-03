@@ -6,7 +6,7 @@ Companion repo to [git-katas](ttps://github.com/eficode-academy/git-katas)
 * Elect a team leader
 * Choose a team name
 
-Leader:
+## Leader:
 * Use this GitHub repository as the template
 
 ![alt](img/use-template.png)
@@ -37,6 +37,8 @@ Everyone:
 1. Commit and push your changes
 1. Get your local master up-to-date once your team is finished
 
+Repeat a couple of times to exercise the push/pull cycle.
+Wait with exercise two until instructed.
 # Exercise two
 
 * As a team, create an ASCII art house in a file named house.txt
@@ -44,8 +46,12 @@ Everyone:
   * Walls
   * A roof
   * A door
-* Any extras you want
+  * A chimney
+  * Windows
+  * Any extras you want
+
 * Limit yourself to one feature per commit
+
 * Each team member contributes at least one feature
   
 * repeat a couple of times to exercise the resolution of merge commits.
