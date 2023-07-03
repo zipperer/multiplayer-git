@@ -27,17 +27,17 @@ Companion repo to [git-katas](ttps://github.com/eficode-academy/git-katas)
 # Exercise one
 
 Everyone:
-1. Clone your team repository
+1. Clone your team repository (SSH is prefered over HTTPS)
 1. Create a file in your team repo:
 	<my-name>.txt
 1. Add your bio:
 	* Your name
 	* Your favourite colour
 	* Your favourite food
-1. Commit and push your changes
+1. Commit and push your changes to the remote
 1. Get your local master up-to-date once your team is finished
 
-Repeat a couple of times to exercise the push/pull cycle.
+Repeat step 3-5 a couple of times to exercise the push/pull cycle.
 Wait with exercise two until instructed.
 # Exercise two
 
