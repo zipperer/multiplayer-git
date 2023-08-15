@@ -38,4 +38,7 @@ One you have accepted the invite, you will land on the GitHub page for your team
 
 Note: It is possible to clone via either `https` or `ssh`, and each requires a different way of authenticating.
 
+* [Howto SSH Auth](Howto_SSH_Auth.md)
+* [Howto PAT Auth](Howto_PAT_Auth.md)
+
 If you are doing this exercise in an instructor-led course, be sure to follow the provided instructions. Otherwise, go with your own personal preferences.
