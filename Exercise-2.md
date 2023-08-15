@@ -2,6 +2,8 @@
 
 In this part of the "project" we actively want to enjoy the fun and pain of getting and resolving conflicts. To do this, we will now all be working on the same file.
 
+**Note:** We want to make sure that we are using `merge` and not `rebase` for this exercise. If you already have your machine configured to use `rebase` by default, you should override this setting for this exercise by running `git config pull.rebase false` inside the repository.
+
 * As a team, collaborate on building an ASCII art house in a file named exactly `house.txt`
 * The house obviously needs features like:
   * Walls
