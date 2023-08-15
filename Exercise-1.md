@@ -3,6 +3,8 @@
 In this first phase of the project, we want to get used to the push and pull cycle, without bothering with conflicts. To do this, everyone will be working on their own file.
 But we still want to work on the same "code base" to experience how git behaves, so everyone on the team should be working on the `main` branch. (This repo has a `main` branch instead of the git-default `master`).
 
+**Note:** We want to make sure that we are using `merge` and not `rebase` for this exercise. If you already have your machine configured to use `rebase` by default, you should override this setting for this exercise by running `git config pull.rebase false` inside the repository.
+
 ## Steps (for everyone)
 
 1. Create a file in your team repo: `<my-name>.txt`
