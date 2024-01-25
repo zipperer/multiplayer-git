@@ -42,3 +42,5 @@ Note: It is possible to clone via either `https` or `ssh`, and each requires a d
 * [Howto PAT Auth](Howto_PAT_Auth.md)
 
 If you are doing this exercise in an instructor-led course, be sure to follow the provided instructions. Otherwise, go with your own personal preferences.
+
+Next off: head into [the next exercise](https://github.com/eficode-academy/multiplayer-git/blob/main/Exercise-1.md)
