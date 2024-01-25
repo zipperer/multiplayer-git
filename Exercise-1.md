@@ -18,4 +18,6 @@ But we still want to work on the same "code base" to experience how git behaves,
 
 Repeat step 2-4 adding even more info to you file, like maybe your favorite dad-jokes.
 
-Note: Remember that Git will only let you push changes if your local branch is up to date with what is on the remote. If others on your team have pushed changes in the mean time, your `git push` will get "rejected". Then you will have to update your local repository (as in step 4 above) and try to push again.
+> Note: Remember that Git will only let you push changes if your local branch is up to date with what is on the remote. If others on your team have pushed changes in the mean time, your `git push` will get "rejected". Then you will have to update your local repository (as in step 4 above) and try to push again.
+
+When this is completed, tell your instructor, so the games can continue 🎉
