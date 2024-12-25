@@ -1,6 +1,6 @@
 # Exercise 3
 
-In this phase of the project, we want to switch from `merge` to `rebase` when integrating our own changes with those of our team mates.
+In this phase of the project, we want to switch from `merge` to `rebase` when integrating our own changes with those of our teammates.
 
 You can do this manually by running `git pull --rebase` instead of a regular `git pull`. This will invoke the usual *fetch*, and then rebase your local changes on top of the fetched changes instead of doing the normal *merge*.
 
