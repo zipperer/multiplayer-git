@@ -20,7 +20,7 @@ Replace `"your_email@example.com"` with your GitHub-associated email. When promp
 
 ## Upload Public Key to GitHub
 
-Now you need to copy the public key to your clipboard: (replace the file path, if you have a key pair with different names)
+Now you need to copy the public key to your clipboard: (replace the file path, if you have a key pair with a different name)
 
 On Mac, you can run `pbcopy < ~/.ssh/id_rsa.pub`.
 On Windows, you can run `clip < ~/.ssh/id_rsa.pub`.
