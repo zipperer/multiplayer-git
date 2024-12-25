@@ -25,7 +25,7 @@ Now you need to copy the public key to your clipboard: (replace the file path, i
 On Mac, you can run `pbcopy < ~/.ssh/id_rsa.pub`.
 On Windows, you can run `clip < ~/.ssh/id_rsa.pub`.
 
-Alternatively, you can open the file in your favorite text editor or run `cat ~/.ssh/id_rsa.pub` to print it out to the terminal and copy it from there.
+Alternatively, you can open the file in your favourite text editor or run `cat ~/.ssh/id_rsa.pub` to print it out to the terminal and copy it from there.
 
 Now go to your GitHub account settings, navigate to "SSH and GPG keys," and click "New SSH key." Paste the copied key into the provided field and add a descriptive title.
 
