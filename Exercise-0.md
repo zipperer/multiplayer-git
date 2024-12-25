@@ -34,7 +34,7 @@ The leader has the following responsibilities to get everyone started:
 
 Clone your team repository:
 
-Once you have accepted the invite, you will land on the GitHub page for your teams copy of the multiplayer project, with full read/write permissions. Clone the repository.
+Once you have accepted the invite, you will land on the GitHub page for your team's copy of the multiplayer project, with full read/write permissions. Clone the repository.
 
 Note: It is possible to clone via either `https` or `ssh`, and each requires a different way of authenticating.
 
