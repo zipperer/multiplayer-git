@@ -26,7 +26,7 @@ git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=7200'
 ```
 
-This just tells Git to remember your password for the 2 hours which is probably enough for this exercise.
+This just tells Git to remember your password for 2 hours which is probably enough for this exercise.
 
 ## Clone Repositories
 
