@@ -6,7 +6,7 @@ You can do this manually by running `git pull --rebase` instead of a regular `gi
 
 You will however probably soon forget to add the `--rebase` switch, so instead we want to configure Git to do this automatically.
 
-Run: `git config pull.rebase true` in your repository to configure *rebase* as the default strategy for this repo, or `git config --global pull.rebase true` if you want to adopt this behaviour for all repositories tht you work with.
+Run: `git config pull.rebase true` in your repository to configure *rebase* as the default strategy for this repo, or `git config --global pull.rebase true` if you want to adopt this behaviour for all repositories that you work with.
 
 ## Development
 
