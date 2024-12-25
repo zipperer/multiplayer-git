@@ -6,7 +6,7 @@ Use Personal Access Tokens for secure authentication when accessing GitHub repos
 
 - Go to your GitHub account settings, then navigate to "Developer settings" > "Personal access tokens." (or just go to <https://github.com/settings/tokens> directly)
 - Click "Generate new token" and provide a meaningful note.
-- Select the scopes (permissions) you need. IN this case, the topmost `repo` does the job.
+- Select the scopes (permissions) you need. In this case, the topmost `repo` does the job.
 - Select an *Expiration* time. For security, it's best to keep the token valid for as short a time as possible, and for this workshop, you can set it to expire in 1 day. You can always generate a new token later.
 - Click "Generate token" and copy the generated token to a safe place.
 
