@@ -14,7 +14,7 @@ In this part of the "project" we actively want to enjoy the fun and pain of gett
   * A garden or yard?
   * Any extras you want
 
-* As in any good software project, limit yourself to one feature per commit. Remember good commit messages so your team mates know which features you added. Remember to share your changes every time.
+* As in any good software project, limit yourself to one feature per commit. Remember good commit messages so your teammates know which features you added. Remember to share your changes every time.
 
 * If you get a merge conflict, you will have to resolve this. Remember to enjoy this process :smile: and the added bonus that conflict markers look a bit like ascii-art.
 
