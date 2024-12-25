@@ -8,7 +8,7 @@ The following should cover the basics. If you need further help, se link at the 
 
 `ls -al ~/.ssh`
 
-Look for files named `id_rsa` (private key) and `id_rsa.pub` (public key). You might also have a keys named `id_ecdsa` or `id_ed25519` with their corresponding public keys. 
+Look for files named `id_rsa` (private key) and `id_rsa.pub` (public key). You might also have keys named `id_ecdsa` or `id_ed25519` with their corresponding public keys. 
 
 ## Generate a New Key Pair
 
