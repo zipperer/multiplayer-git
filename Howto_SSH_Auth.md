@@ -1,6 +1,6 @@
 # Set up SSH authentication for GitHub
 
-The following should cover the basics. If you need further help, se link at the bottom of the page.
+The following should cover the basics. If you need further help, see link at the bottom of the page.
 
 ## Check for Existing Keys
 
