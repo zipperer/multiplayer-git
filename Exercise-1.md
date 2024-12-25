@@ -13,7 +13,7 @@ But we still want to work on the same "code base" to experience how git behaves,
    * Your favourite colour
    * Your favourite food
   but do this in smaller individual changes.
-1. For each change, make a Commit with a good commit message and push your changes to the team's remote repository.
+1. For each change, make a commit with a good commit message and push your changes to the team's remote repository.
 1. Keep your local master up-to-date once your team is finished by using `git pull` (or `git fetch` followed my `git merge`)
 
 Repeat steps 2-4 adding even more info to your file, like maybe your favourite dad-jokes.
